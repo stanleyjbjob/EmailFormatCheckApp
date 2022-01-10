@@ -1,0 +1,2 @@
+# EmailFormatCheckApp
+利用MailAddress建構子引發的FormatException來檢查Email格式
